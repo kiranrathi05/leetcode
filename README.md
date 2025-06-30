@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiranrathi05/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Two Pointers
 |  |
@@ -18,5 +19,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiranrathi05/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Hash Table
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->

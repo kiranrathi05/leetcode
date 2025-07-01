@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/kiranrathi05/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->

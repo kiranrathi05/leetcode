@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiranrathi05/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/kiranrathi05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/kiranrathi05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/kiranrathi05/leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiranrathi05/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

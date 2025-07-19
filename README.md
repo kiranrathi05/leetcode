@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kiranrathi05/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiranrathi05/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/kiranrathi05/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/kiranrathi05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/kiranrathi05/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiranrathi05/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3396-valid-word](https://github.com/kiranrathi05/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/kiranrathi05/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/kiranrathi05/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kiranrathi05/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiranrathi05/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/kiranrathi05/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
